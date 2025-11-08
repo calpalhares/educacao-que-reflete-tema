@@ -7,7 +7,9 @@ Text Domain: educacao-que-reflete
 */
 
 /* COLE AQUI TODO O SEU CSS (o conteúdo dentro da tag <style>     <style>
-        :root {
+        
+    </style>
+	:root {
             --azul-reflexivo: #a8d0e6;
             --dourado-suave: #f9e076;
             --verde-natural: #6b8e6e;
@@ -1074,4 +1076,4 @@ Text Domain: educacao-que-reflete
                 padding: 1.5rem;
             }
         }
-    </style> <style>) */
+    </style>
